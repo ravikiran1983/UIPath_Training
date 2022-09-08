@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7OsqdpmXTUSlstXIv_bmoA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.google.com/search?q=Weather+in+Goa&amp;sxsrf=ALiCzsYMW1Pl0eQWLpiaH0aJTv_soaFWMQ%3A1662640081825&amp;source=hp&amp;ei=0d8ZY7WYMPSKr7wPlbmPkA0&amp;iflsig=AJiK0e8AAAAAYxnt4QZvM5ecUPowU1OV0OZZyuIHQO_q&amp;ved=0ahUKEwj1xNv7mIX6AhV0xYsBHZXcA9IQ4dUDCA4&amp;oq=Weather+in+Goa&amp;gs_lcp=Cgdnd3Mtd2l6EAwyDAgjECcQnQIQRhCAAjIFCAAQgAQyCggAEIAEEIcCEBQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgQIIxAnOgoIABCxAxCDARBDOgQIABBDOhAIABCABBCHAhCxAxCDARAUOgcIABCxAxBDOgsIABCABBCxAxCDAToOCAAQgAQQsQMQgwEQyQM6BQgAEJIDOgsIABCxAxCDARCRAjoICAAQgAQQsQNQAFiXJ2CcnANoAnAAeAKAAeoDiAHMG5IBCjAuMTUuMS4xLjGYAQCgAQE&amp;sclient=gws-wiz" DesignTimeRectangle="322, 423, 67, 67" ElementType="Text" FriendlyName="'79'" FullSelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' type='' class='wob_t q8U8x' /&gt;" Guid="f95cf2df-8836-41ab-9062-789b274301ba" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Weather in Goa - Google Search' /&gt;" SearchSteps="FuzzySelector" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="85c17ca59ce8854a1afa044d3057a96d.png" xmlns="">0xu3xR-NftEOVr61LlwLqUg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

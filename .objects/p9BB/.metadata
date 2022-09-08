@@ -1,0 +1,11 @@
+﻿{
+  "Id": "p9BBDFig50Sm8P4-vJD5lg",
+  "Reference": "ednDCUGtd02nxiH_DjgYuA/p9BBDFig50Sm8P4-vJD5lg",
+  "Name": "WeatherData",
+  "Type": "App",
+  "Created": "2022-09-08T12:28:23.0282645Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-09-08T12:28:23.0282645Z"
+}

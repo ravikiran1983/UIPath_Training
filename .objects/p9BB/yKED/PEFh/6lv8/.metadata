@@ -1,0 +1,14 @@
+﻿{
+  "Id": "6lv8SVWXkUK_yVgFakypgw",
+  "Reference": "ednDCUGtd02nxiH_DjgYuA/6lv8SVWXkUK_yVgFakypgw",
+  "ParentRef": "ednDCUGtd02nxiH_DjgYuA/PEFhMJfs2kWctIFkpcIOaA",
+  "Name": "Get Text '79'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-09-08T12:32:38.1998613Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-09-08T12:32:38.1998613Z"
+}
